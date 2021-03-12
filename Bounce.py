@@ -1,5 +1,5 @@
 #Bounce.py
-#Josh Bowen
+#Josh Bowen & Scott DeWitt
 #3/11/2021
 
 import turtle
